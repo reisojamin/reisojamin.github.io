@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to The Blog of Reisojamin
 
-You can use the [editor on GitHub](https://github.com/reisojamin/reisojamin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, this is a website which mainly talking about myself and the character of Astronuver.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
